@@ -19,7 +19,7 @@ public class DataConfiguration {
         dataSource.setDriverClassName("com.mysql.jdbc.Driver");
         dataSource.setUrl("jdbc:mysql://localhost:3306/secretfriend?useTimezone=true&serverTimezone=UTC");
         dataSource.setUsername("root");
-        dataSource.setPassword("Meubanco*01");
+        dataSource.setPassword("");
         return dataSource;
     }
 
