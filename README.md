@@ -1,2 +1,2 @@
-# exerciciosBasicosJava
-Exercicios de treinamento de lógica na linguagem Java. 
+# secretfriend
+Registration project with spring boot, thymeleaf, persistence to MySQL database, HTML and CSS
