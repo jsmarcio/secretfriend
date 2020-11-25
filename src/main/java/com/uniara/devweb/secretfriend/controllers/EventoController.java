@@ -17,6 +17,8 @@ import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 import javax.persistence.GeneratedValue;
 import javax.validation.Valid;
 
+//Controla os eventos ocorridos
+
 @Controller
 public class EventoController {
 
